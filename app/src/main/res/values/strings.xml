@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">HomeWork_1</string>
+    <string name="ems_edittext">Свойство ems - это ширина поля EditText в количестве букв M.
+        Работает только если свойство layout_width установлено в wrap_content.</string>
 </resources>
